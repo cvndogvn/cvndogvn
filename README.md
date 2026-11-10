@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/bcandogan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/cvndogvn"><img src="https://img.shields.io/badge/GitHub-0b0f16?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
-<sub><code>can@korkut:~$</code> &nbsp; <a href="#-whoami">whoami</a> · <a href="#-stack">stack/</a> · <a href="#-projects">projects/</a></sub>
+<sub><code>can@korkut:~$</code> &nbsp; <a href="#_-whoami">whoami</a> · <a href="#_-stack">stack/</a> · <a href="#_-projects">projects/</a></sub>
 
 </div>
 
