@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/bcandogan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/cvndogvn"><img src="https://img.shields.io/badge/GitHub-0b0f16?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
-<sub><code>can@korkut:~$</code> &nbsp; <a href="#-whoami">whoami</a> · <a href="#-stack">stack/</a> · <a href="#-projects">projects/</a> · <a href="#-languages">languages.cfg</a></sub>
+<sub><code>can@korkut:~$</code> &nbsp; <a href="#-whoami">whoami</a> · <a href="#-stack">stack/</a> · <a href="#-projects">projects/</a></sub>
 
 </div>
 
@@ -24,11 +24,13 @@ name:      Can Doğan
 location:  Türkiye 🇹🇷
 company:   Korkut Teknoloji
 school:    Fatih Sultan Mehmet Vakıf Üniversitesi
-started:   "childhood — and never stopped"
+role:      Red Team Operator
+past:      Penetration Tester
 focus:
-  - offensive security & attack simulation
-  - secure web development
-  - linux & server hardening
+  - red team operations & adversary emulation
+  - active directory attacks & lateral movement
+  - web / api penetration testing
+  - initial access & post-exploitation
 status:    "learning > breaking > fixing > repeat"
 ```
 
@@ -41,9 +43,6 @@ status:    "learning > breaking > fixing > repeat"
 </tr>
 </table>
 
-> Yazılımla yolculuğum çocukken başladı. Bugün sistemlerin nasıl çalıştığını anlamak için
-> önce nasıl kırıldıklarına bakıyorum.
-
 ---
 
 ## `>_` stack
@@ -53,8 +52,15 @@ status:    "learning > breaking > fixing > repeat"
 **`// web & backend`**
 <br/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge"/>
+<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/React_Native-0b0f16?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
@@ -66,13 +72,34 @@ status:    "learning > breaking > fixing > repeat"
 <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
-**`// offensive security`**
+**`// red team & offensive security`**
 <br/>
-<img src="https://img.shields.io/badge/Phishing_Sim-8B0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Brute_Force-0b0f16?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQL_Injection-4B0082?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Privilege_Escalation-B22222?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DDoS_Lab-005f73?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Red_Team_Operations-B00020?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Adversary_Emulation-0b0f16?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Penetration_Testing-8B0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web_%26_API_Pentest-4B0082?style=for-the-badge"/>
+<br/>
+<img src="https://img.shields.io/badge/Active_Directory_Attacks-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Initial_Access-B22222?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Lateral_Movement-005f73?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Privilege_Escalation-6A0DAD?style=for-the-badge"/>
+<br/>
+<img src="https://img.shields.io/badge/C2_Infrastructure-0b0f16?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Social_Engineering-8B0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OSINT-2b2d42?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MITRE_ATT%26CK-C41E3A?style=for-the-badge"/>
+
+**`// arsenal`**
+<br/>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
+<img src="https://img.shields.io/badge/BloodHound-B22222?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nmap-0b0f16?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Hack_The_Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
 
 </div>
 
@@ -105,17 +132,6 @@ Bölümün birinci sınıf öğrencilerini **test etmek ve eğitmek** için kurd
 </td>
 </tr>
 </table>
-
----
-
-## `>_` activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=cvndogvn&show_icons=true&hide_border=true&bg_color=0b0f16&title_color=39ffb0&icon_color=2bc8ff&text_color=d8e1ee"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvndogvn&layout=compact&hide_border=true&bg_color=0b0f16&title_color=39ffb0&text_color=d8e1ee"/>
-
-</div>
 
 ---
 
